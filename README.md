@@ -1,6 +1,6 @@
 # Merhaba!
 ⠀
-Ben **benakatrox**, yani asıl adımla **İbrahim** 21 yaşındayım. Yazılım ve oyun sunucuları sektörlerinde kendimi geliştirmeye devam ediyorum.
+I am **benakatrox**, also known as **İbrahim**. I am 21 years old and I am continuously improving myself in the fields of software and game servers.
 ⠀
 ## Programming Languages ​​I Use 🚀
 ⠀
@@ -21,3 +21,4 @@ Ben **benakatrox**, yani asıl adımla **İbrahim** 21 yaşındayım. Yazılım 
 - Discord: https://discord.gg/akatrox ✅
 
 ⠀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benakatrox)
