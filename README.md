@@ -1,9 +1,7 @@
 # Merhaba!
-⠀
 I am **benakatrox**, also known as **İbrahim**. I am 21 years old and I am continuously improving myself in the fields of software and game servers.
 ⠀
 ## Programming Languages ​​I Use 🚀
-⠀
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
@@ -15,10 +13,9 @@ I am **benakatrox**, also known as **İbrahim**. I am 21 years old and I am cont
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ⠀
 ## İletişim 📫
-⠀
 - Site: https://akatrox.com.tr ✅
 - Youtube: https://youtube.com/@Akatrox ✅
 - Discord: https://discord.gg/akatrox ✅
-
+⠀
 ⠀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benakatrox)
